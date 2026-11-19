@@ -1,0 +1,19 @@
+id = "color-filters"
+name = "Color Filters"
+version = "0.1.0"
+api = 1
+
+[[steps]]
+name = "grayscale"
+label = "Grayscale"
+role = "filter"
+
+[[steps]]
+name = "sepia"
+label = "Sepia"
+role = "filter"
+
+[[steps]]
+name = "invert"
+label = "Invert"
+role = "filter"
